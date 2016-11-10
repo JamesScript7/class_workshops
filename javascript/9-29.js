@@ -43,7 +43,7 @@ console.log(ampmHours + ":" + minutes + ampm)
 
 // workshop: find the time
 
-now = new Date;
+now = new Date();
 
 var t = now.getTime();
 
